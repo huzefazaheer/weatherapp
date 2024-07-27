@@ -1,0 +1,15 @@
+.partly-cloudy-day {
+	background-color: lightblue;
+}
+
+.clear-night {
+	background-color: #23006f;
+}
+
+.rain {
+	background-color: rgb(19, 100, 192);
+}
+
+.cloudy {
+	background-color: rgb(179, 177, 177);
+}

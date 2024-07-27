@@ -72,6 +72,23 @@
 	font-style: italic;
 }
 
+#searchbar {
+	padding: 1rem 2rem;
+	border-radius: 8px;
+}
+
 #btnsearch {
 	padding: 1rem 2rem;
+	border-radius: 30px;
+}
+
+#btnsearch,
+#searchbar {
+	background-color: #e9e9e975;
+	border: white 1px solid;
+}
+
+#btnsearch:hover,
+#searchbar:hover {
+	background-color: #e9e9e9cb;
 }
