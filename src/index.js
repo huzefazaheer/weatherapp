@@ -1,4 +1,5 @@
 import '../static/style/normalise.css';
+import '../static/style/placement.css';
 import '../static/style/style.css';
 
 import fetchWeatherData from './scripts/datafetcher.js';
